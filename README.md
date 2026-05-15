@@ -1,1 +1,13 @@
-# curso-c-profesional
+# Curso C Profesional
+
+## Introducción al Lenguaje C
+1. Bienvenida al Curso
+2. Qué es C y para qué se utiliza
+3. Herramientas y Entorno de Desarrollo
+    - [seccion_1_1.c](Bloque_1/seccion_1_1.c)
+
+## Fundamentos del Lenguaje
+1. Estructura Básica de un Programa en C
+    - [seccion_2_1.c](Bloque_2/seccion_2_1.c)
+2. Tipos de Datos y Variables
+    - [seccion_2_2.c](Bloque_2/seccion_2_2.c)
