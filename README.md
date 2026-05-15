@@ -11,3 +11,5 @@
     - [seccion_2_1.c](Bloque_2/seccion_2_1.c)
 2. Tipos de Datos y Variables
     - [seccion_2_2.c](Bloque_2/seccion_2_2.c)
+3. Operadores Aritméticos, Lógicos y Relacionales
+    - [seccion_2_3.c](Bloque_2/seccion_2_3.c)
