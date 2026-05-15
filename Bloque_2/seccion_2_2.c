@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdbool.h>
-
 /*
 Sección 2.2 - Tipos de datos y variables
 
@@ -32,6 +29,9 @@ Lo común hoy en día es:
 ** En 'printf' 'float' se promueve a 'double' por eso %f funciona también para 'double'
 
 */
+
+#include <stdio.h>
+#include <stdbool.h>
 
 int main(void) {
 
