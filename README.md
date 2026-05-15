@@ -13,3 +13,5 @@
     - [seccion_2_2.c](Bloque_2/seccion_2_2.c)
 3. Operadores Aritméticos, Lógicos y Relacionales
     - [seccion_2_3.c](Bloque_2/seccion_2_3.c)
+4. Entrada y Salida estándar
+    - [seccion_2_4.c](Bloque_2/seccion_2_4.c)
