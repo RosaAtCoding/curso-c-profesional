@@ -20,3 +20,7 @@
 6. Ejemplo Práctico Construyendo un Programa Simple
     - [seccion_2_6.c](Bloque_2/seccion_2_6.c)
     - [seccion_2_6_ejercicio.c](Bloque_2/seccion_2_6_ejercicio.c)
+
+## Control de Flujo
+1. Estructuras Condicionales
+    - [seccion_3_1.c](Bloque_3/seccion_3_1.c)
