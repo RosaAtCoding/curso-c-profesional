@@ -17,3 +17,5 @@
     - [seccion_2_4.c](Bloque_2/seccion_2_4.c)
 5. Comentarios y buenas prácticas de código
     - [seccion_2_5.c](Bloque_2/seccion_2_5.c)
+6. Ejemplo Práctico Construyendo un Programa Simple
+    - [seccion_2_6.c](Bloque_2/seccion_2_6.c)
