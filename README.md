@@ -19,3 +19,4 @@
     - [seccion_2_5.c](Bloque_2/seccion_2_5.c)
 6. Ejemplo Práctico Construyendo un Programa Simple
     - [seccion_2_6.c](Bloque_2/seccion_2_6.c)
+    - [seccion_2_6_ejercicio.c](Bloque_2/seccion_2_6_ejercicio.c)
