@@ -15,3 +15,5 @@
     - [seccion_2_3.c](Bloque_2/seccion_2_3.c)
 4. Entrada y Salida estándar
     - [seccion_2_4.c](Bloque_2/seccion_2_4.c)
+5. Comentarios y buenas prácticas de código
+    - [seccion_2_5.c](Bloque_2/seccion_2_5.c)
