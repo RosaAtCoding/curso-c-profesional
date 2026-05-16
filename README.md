@@ -13,9 +13,9 @@
     - [seccion_2_2.c](Bloque_2/seccion_2_2.c)
 3. Operadores Aritméticos, Lógicos y Relacionales
     - [seccion_2_3.c](Bloque_2/seccion_2_3.c)
-4. Entrada y Salida estándar
+4. Entrada y Salida Estándar
     - [seccion_2_4.c](Bloque_2/seccion_2_4.c)
-5. Comentarios y buenas prácticas de código
+5. Comentarios y Buenas Prácticas de Código
     - [seccion_2_5.c](Bloque_2/seccion_2_5.c)
 6. Ejemplo Práctico Construyendo un Programa Simple
     - [seccion_2_6.c](Bloque_2/seccion_2_6.c)
