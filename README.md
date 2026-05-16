@@ -26,3 +26,5 @@
     - [seccion_3_1.c](Bloque_3/seccion_3_1.c)
 2. Estructura switch-case
     - [seccion_3_2.c](Bloque_3/seccion_3_2.c)
+3. Bucles
+    - [seccion_3_3.c](Bloque_3/seccion_3_3.c)
