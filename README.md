@@ -32,3 +32,4 @@
     - [seccion_3_4.c](Bloque_3/seccion_3_4.c)
 5. Ejemplo Práctico Funciones y Control de Flujo
     - [seccion_3_5.c](Bloque_3/seccion_3_5.c)
+    - [seccion_3_5_ejercicio.c](Bloque_3/seccion_3_5_ejercicio.c)
