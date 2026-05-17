@@ -14,7 +14,7 @@ int main(void) {
 
     do {
         printf("\nMenú:\n");
-        printf("1) Verificar si el número es paro impar\n");
+        printf("1) Verificar si el número es par o impar\n");
         printf("2) Imprimir tabla de multiplicar (1 al 10)\n");
         printf("3) Salir\n");
 
