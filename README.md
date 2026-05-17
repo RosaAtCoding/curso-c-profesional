@@ -33,3 +33,7 @@
 5. Ejemplo Práctico Funciones y Control de Flujo
     - [seccion_3_5.c](Bloque_3/seccion_3_5.c)
     - [seccion_3_5_ejercicio.c](Bloque_3/seccion_3_5_ejercicio.c)
+
+## Funciones y Modularización del Código
+1. Definición y Llamada de Funciones
+    - [seccion_4_1.c](Bloque_4/seccion_4_1.c)
