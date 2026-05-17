@@ -19,3 +19,59 @@ Nota:
 - Más adelante verás cómo validar entradas y evitar casos problemáticos
 
 */
+
+#include <stdio.h>
+
+int main(void) {
+
+    int opcion;
+    int numero;
+    int n;
+
+    do {
+        printf("\nMenú:\n");
+        printf("1) Verificar si el número es: positivo, negativo o cero\n");
+        printf("2) Imprimir números del 1 a N\n");
+        printf("3) Salir\n");
+
+        printf("Elige una opción: ");
+        scanf("%d", &opcion);
+
+        switch (opcion) {
+            case 1:
+                printf("Ingresa un número entero: ");
+                scanf("%d", &numero);
+
+                if (numero > 0) {
+                    printf("%d es positivo.\n", numero);
+                } else if (numero < 0) {
+                    printf("%d es negativo.\n", numero);
+                } else {
+                    printf("%d es cero.\n", numero);
+                }
+            
+                break;
+
+            case 2:
+                printf("Ingresa un número entero: ");
+                scanf("%d", &n);
+                
+                for (int i = 1; i <= n; i++) {
+                    printf("%d\n", i);
+                }
+
+                break;
+
+            case 3:
+                printf("Saliendo...\n");
+                break;
+
+            default:
+                printf("Opción inválida.\n");
+                break;
+        }
+
+    } while (opcion != 3);
+
+    return 0;
+}
