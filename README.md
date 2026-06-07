@@ -43,3 +43,6 @@
     - [seccion_4_3.c](Bloque_4/seccion_4_3.c)
 4. Recursión
     - [seccion_4_4.c](Bloque_4/seccion_4_4.c)
+5. Ejemplo Práctico Funciones y Recursión
+    - [seccion_4_5.c](Bloque_4/seccion_4_5.c)
+    
