@@ -39,3 +39,5 @@
     - [seccion_4_1.c](Bloque_4/seccion_4_1.c)
 2. Alcance de Variables
     - [seccion_4_2.c](Bloque_4/seccion_4_2.c)
+3. Prototipos de Funciones
+    - [seccion_4_3.c](Bloque_4/seccion_4_3.c)
