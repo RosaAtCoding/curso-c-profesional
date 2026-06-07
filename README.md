@@ -45,4 +45,4 @@
     - [seccion_4_4.c](Bloque_4/seccion_4_4.c)
 5. Ejemplo Práctico Funciones y Recursión
     - [seccion_4_5.c](Bloque_4/seccion_4_5.c)
-    
+    - [seccion_4_5_ejercicio.c](Bloque_4/seccion_4_5_ejercicio.c)
