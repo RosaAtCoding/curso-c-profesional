@@ -46,3 +46,7 @@
 5. Ejemplo Práctico Funciones y Recursión
     - [seccion_4_5.c](Bloque_4/seccion_4_5.c)
     - [seccion_4_5_ejercicio.c](Bloque_4/seccion_4_5_ejercicio.c)
+
+## Arreglos y Cadenas de Caracteres
+1. Arreglos Unidimensionales
+    - [seccion_5_1.c](Bloque_5/seccion_5_1.c)
