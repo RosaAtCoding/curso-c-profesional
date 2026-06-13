@@ -52,3 +52,5 @@
     - [seccion_5_1.c](Bloque_5/seccion_5_1.c)
 2. Arreglos Bidimensionales
     - [seccion_5_2.c](Bloque_5/seccion_5_2.c)
+3. Cadenas de Caracteres
+    - [seccion_5_3.c](Bloque_5/seccion_5_3.c)
