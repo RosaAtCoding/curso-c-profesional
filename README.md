@@ -54,3 +54,5 @@
     - [seccion_5_2.c](Bloque_5/seccion_5_2.c)
 3. Cadenas de Caracteres
     - [seccion_5_3.c](Bloque_5/seccion_5_3.c)
+4. Ejemplo Práctico Arrays y Strings
+    - [seccion_5_4.c](Bloque_5/seccion_5_4.c)
