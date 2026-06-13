@@ -56,3 +56,4 @@
     - [seccion_5_3.c](Bloque_5/seccion_5_3.c)
 4. Ejemplo Práctico Arrays y Strings
     - [seccion_5_4.c](Bloque_5/seccion_5_4.c)
+    - [seccion_5_4_ejercicio.c](Bloque_5/seccion_5_4_ejercicio.c)
